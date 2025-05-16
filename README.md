@@ -1,5 +1,5 @@
 # 💫 About Me:
-⚪Tech enthusiast 👾<br>⚫Always debugging life 💡<br>⚪Hala Madrid y nada más! 💯<br>⚫Fluent in Python 👽
+⚪Tech enthusiast 💻🖱<br>⚫Always debugging life 💡<br>⚪Hala Madrid y nada más! 💯<br>⚫Fluent in Python 👽
 
 
 ## 🌐 Socials:
